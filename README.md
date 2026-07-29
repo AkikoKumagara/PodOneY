@@ -1,7 +1,7 @@
 ## <p align=center>PodOneY</p>
 ### <p align=center>PodOne Port for Innioasis Y1 & Y2 (360p)</p>
 
-<p align=center>There aren't enough themes that take advantage of the full resolution of the Y1 & Y2, and the 240p version of Rockbox is fine but themes on it look kind of bad on the 480x360 dispolay.
+<p align=center>There aren't enough themes that take advantage of the full native resolution of the Y1 & Y2, and the 240p version of Rockbox is fine but themes on it look kind of bad on the 480x360 display.
 Here's a port of a theme I found and liked. This port is upscaled by hand, with elements redrawn to fit the new resolution. No upscaling algorithms were used for this process.</p>
 
 <p align=center><img src="./images/sbs.png" alt="The Main Menu"/> <img src="./images/wps.png" alt="The Player Screen"/> <img src="./images/browser.png" alt="An example of browsing files."/></center></p>
